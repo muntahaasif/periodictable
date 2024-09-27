@@ -1,0 +1,380 @@
+td{
+    border: 1px solid black;
+    padding: 10px;
+}
+
+.hidden{
+    visibility: hidden;
+}
+
+.green{
+    background-color: rgb(144, 240, 144);
+}
+.red{
+    background-color: rgb(243, 98, 98);
+}
+.brown{
+    background-color: rgb(221, 149, 149);
+}
+.boron{
+    background-color: rgb(72, 170, 72);
+}
+.blue{
+    background-color: rgb(131, 224, 247);
+}
+.nitrogen{
+    background-color: rgb(72, 170, 72);
+}
+.oxygen{
+    background-color: rgb(72, 170, 72);
+}
+.fluorine{
+    background-color: rgb(72, 170, 72);
+}
+.pink{
+    background-color: rgb(243, 152, 167);
+}
+.neon{
+    background-color: rgb(243, 152, 167);
+}
+.sodium{
+    background-color: rgb(243, 98, 98);
+}
+.magnesium{
+    background-color: rgb(221, 149, 149);
+}
+.calcium{
+    background-color: rgb(221, 149, 149);
+}
+.aluminium{
+    background-color: rgb(66, 66, 245);
+}
+.silicon{
+    background-color: rgb(72, 170, 72);
+}
+.phos{
+    background-color: rgb(131, 224, 247);
+}
+.sulphur{
+    background-color: rgb(131, 224, 247);
+}.chlorine{
+    background-color: rgb(72, 170, 72);
+}
+.argon{
+    background-color: rgb(243, 152, 167);
+}
+.potassium{
+    background-color: rgb(243, 98, 98);
+}
+.sc{
+    background-color: rgb(250, 246, 6);
+}
+.ti{
+    background-color: rgb(250, 246, 6);
+}
+.v{
+    background-color: rgb(250, 246, 6);
+}
+.cr{
+    background-color: rgb(250, 246, 6);
+}
+.mn{
+    background-color: rgb(250, 246, 6);
+}
+.fe{
+    background-color: rgb(250, 246, 6);
+}
+.co{
+    background-color: rgb(250, 246, 6);
+}
+.ni{
+    background-color: rgb(250, 246, 6);
+}
+.cu{
+    background-color: rgb(250, 246, 6);
+}
+.zn{
+    background-color: rgb(250, 246, 6);
+}
+.ga{
+    background-color: rgb(66, 66, 245);
+}
+.ge{
+    background-color: rgb(72, 170, 72);
+}
+.ar{
+    background-color: rgb(72, 170, 72);
+}
+.se{
+    background-color: rgb(131, 224, 247);
+}
+.br{
+    background-color: rgb(72, 170, 72);
+}
+.kr{
+    background-color: rgb(243, 152, 167);
+}
+.rb{
+    background-color: rgb(243, 98, 98);
+}
+.sr{
+    background-color: rgb(221, 149, 149);
+}
+.y{
+    background-color: rgb(250, 246, 6);
+}
+.zr{
+    background-color: rgb(250, 246, 6);
+}
+.nb{
+    background-color: rgb(250, 246, 6);  
+}
+.mo{
+    background-color: rgb(250, 246, 6);  
+}
+.tc{
+    background-color: rgb(250, 246, 6);
+}
+.ru{
+    background-color: rgb(250, 246, 6);
+}
+.rh{
+    background-color: rgb(250, 246, 6);
+}
+.pd{
+    background-color: rgb(250, 246, 6);  
+}
+.ag{
+    background-color: rgb(250, 246, 6); 
+}
+.cd{
+    background-color: rgb(250, 246, 6); 
+}
+.in{
+    background-color: rgb(66, 66, 245);
+}
+.sn{
+    background-color: rgb(66, 66, 245);
+}
+.sb{
+    background-color: rgb(72, 170, 72); 
+}
+.te{
+    background-color: rgb(72, 170, 72); 
+}
+.io{
+    background-color: rgb(72, 170, 72);
+}
+.xe{
+    background-color: rgb(243, 152, 167);
+}
+.cs{
+    background-color: rgb(243, 98, 98);
+}
+.ba{
+    background-color: rgb(221, 149, 149);
+}
+.la{
+    background-color: rgb(155, 22, 155);
+}
+.hf{
+   background-color: rgb(250, 246, 6);
+} 
+.ta{
+    background-color: rgb(250, 246, 6);
+}
+.w{
+    background-color: rgb(250, 246, 6);
+}
+.re{
+    background-color: rgb(250, 246, 6);
+}
+.os{
+    background-color: rgb(250, 246, 6);
+}
+.ir{
+    background-color: rgb(250, 246, 6);
+}
+.pt{
+    background-color: rgb(250, 246, 6);
+}
+.au{
+    background-color: rgb(250, 246, 6);
+}
+.hg{
+    background-color: rgb(250, 246, 6);
+}
+.tl{
+    background-color: rgb(66, 66, 245);
+}
+.pb{
+    background-color: rgb(66, 66, 245);
+}
+.bi{
+    background-color: rgb(66, 66, 245);
+}
+.po{
+    background-color: rgb(66, 66, 245);
+}
+.at{
+    background-color: rgb(72, 170, 72);
+}
+.rn{
+    background-color: rgb(243, 152, 167); 
+}
+.fr{
+    background-color: rgb(243, 98, 98);
+}
+.ra{
+    background-color: rgb(221, 149, 149); 
+}
+.ac{
+    background-color: rgb(155, 22, 155);  
+}
+.rf{
+    background-color: rgb(250, 246, 6);
+}
+.db{
+    background-color: rgb(250, 246, 6);   
+}
+.sg{
+    background-color: rgb(250, 246, 6);   
+}
+.bh{
+    background-color: rgb(250, 246, 6);  
+}
+.hs{
+    background-color: rgb(250, 246, 6);
+}
+.mt{
+    background-color: rgb(26, 187, 236);
+}
+.ds{
+    background-color: rgb(26, 187, 236);
+}
+.rg{
+    background-color: rgb(26, 187, 236);
+}
+.cn{
+    background-color: rgb(250, 246, 6); 
+}
+.nh{
+    background-color: rgb(26, 187, 236);
+}
+.fl{
+    background-color: rgb(66, 66, 245);
+}
+.mc{
+    background-color: rgb(26, 187, 236);
+}
+.lv{
+    background-color: rgb(26, 187, 236);
+}
+.ts{
+    background-color: rgb(26, 187, 236);
+}
+.og{
+    background-color: rgb(26, 187, 236);   
+}
+.ce{
+    background-color: rgb(155, 22, 155);
+}
+.hide{
+    visibility: hidden;
+    
+    
+}
+.buttom{
+    margin-bottom: 30px;
+}
+.pr{
+    background-color: rgb(155, 22, 155);
+}
+.nd{
+    background-color: rgb(155, 22, 155);
+}
+.pm{
+    background-color: rgb(155, 22, 155);
+}
+.sm{
+    background-color: rgb(155, 22, 155);
+}
+.eu{
+    background-color: rgb(155, 22, 155);
+}
+.gd{
+    background-color: rgb(155, 22, 155);
+}
+.tb{
+    background-color: rgb(155, 22, 155);
+}
+.dy{
+    background-color: rgb(155, 22, 155);
+}
+.ho{
+    background-color: rgb(155, 22, 155);
+}
+.er{
+    background-color: rgb(155, 22, 155);
+}
+.tm{
+    background-color: rgb(155, 22, 155);
+}
+.yb{
+    background-color: rgb(155, 22, 155);
+}
+.lu{
+    background-color: rgb(155, 22, 155);
+}
+.th{
+    background-color: rgb(238, 96, 238);
+}
+.pa{
+    background-color: rgb(238, 96, 238);
+
+}
+  .u{
+    background-color: rgb(238, 96, 238);
+   
+  } 
+  .np{
+    background-color: rgb(238, 96, 238);
+  }
+  .pu{
+    background-color: rgb(238, 96, 238);
+  }
+  .am{
+    background-color: rgb(238, 96, 238);
+  }
+  .cm{
+    background-color: rgb(238, 96, 238);
+  }
+  .bk{
+    background-color: rgb(238, 96, 238);
+  }
+  .cf{
+    background-color: rgb(238, 96, 238);
+  }
+.es{
+    background-color: rgb(238, 96, 238);  
+}
+.fm{
+    background-color: rgb(238, 96, 238);    
+}
+.md{
+    background-color: rgb(238, 96, 238);       
+}
+.no{
+    background-color: rgb(238, 96, 238);  
+}
+.lr{
+    background-color: rgb(238, 96, 238);  
+}
+.heading{
+    background-color: rgb(240, 147, 8);
+ font-family: Georgia, 'Times New Roman', Times, serif;
+    height: 40px;
+    width: 100%;
+    
+}
+
